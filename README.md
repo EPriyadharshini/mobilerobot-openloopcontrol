@@ -7,9 +7,7 @@ To develop a python control code to move the mobilerobot along the predefined pa
 1. RoboMaster EP core
 2. Python 3.7
 
-## Procedure
-
-
+## Procedure:
 Step1:
 
 Use from robomaster import robot
@@ -99,18 +97,11 @@ if _name_ == '_main_':
 ```
 
 ## MobileRobot Movement Image:
-
 ![Alt text](1.jpg)
-
 ![Alt text](2.jpg)
 
-
 ## MobileRobot Movement Video:
-
-Upload your video in Youtube and paste your video-id here
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
+https://youtu.be/5YFhKOd-ts8?si=BfA6vcPaS7B-IX3w
 https://youtu.be/5YFhKOd-ts8?si=5vbUjvHrnXs6JkiL
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
