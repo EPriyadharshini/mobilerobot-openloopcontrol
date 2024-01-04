@@ -96,10 +96,14 @@ if _name_ == '_main_':
     ep_robot.close()
 ```
 
+
 ## MobileRobot Movement Image:
 
 ![Alt text](1.jpg)
+
 ![Alt text](2.jpg)
+
+
 
 ## MobileRobot Movement Video:
 
